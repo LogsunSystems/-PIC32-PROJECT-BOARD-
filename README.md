@@ -21,4 +21,4 @@ PIC32-HMZ144 board features a PIC32MZ2048EFG144 processor. It is one of the most
  You would need software that supports PIC32MZ family of processors. The most commonly used tool for software development for PIC32MZ applications is MPLAB X. The most used tool for binary upload to PIC32MZ is MPLAB IPE. Microchip provides a set of libraries and demo projects for the PIC32MZ family in their “Harmony Integrated Software Framework”.
          
 
-*NOTE:  THAT MPLAB 8.XX DOES NOT SUPPORT PIC32MZ.**
+**NOTE:  THAT MPLAB 8.XX DOES NOT SUPPORT PIC32MZ.**
